@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  Пример использования иконки в файле README.md на языке разметки Markdown:
+
+![alt text](https://example.com/image.png "Иконка")
