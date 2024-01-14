@@ -18,3 +18,7 @@ Here are some ideas to get you started:
   Пример использования иконки в файле README.md на языке разметки Markdown:
 
 ![alt text](https://example.com/image.png "Иконка")
+
+    Пример использования иконки Shields.io в файле README.md:
+
+    ![Build Status](https://img.shields.io/travis/username/repo.svg?style=flat-square) 
